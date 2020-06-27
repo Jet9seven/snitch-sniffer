@@ -1,0 +1,16 @@
+{
+"version" : 1.0.0 ,
+"AppName" : "Simple_Python",
+"Developer": "Gauthier",
+"Address" : "Congo Kinshasa" 
+"Actions" : [
+{
+"Transport":"Avoid useless cost of transport",
+"Inventory": "Kniow how to manage Resources",
+"Motion" : "Don't ship non needed product",
+"Wait_time": "Don't spend to much Time while Delivering",
+"Over_Production":"Over production is one of the most recurring problem in our Busines",
+"Over_Processing":" Don't Over Process,The quality of your services depemd with the time",
+"Defects":"Take care of Defect in your project" 
+ ]
+}
